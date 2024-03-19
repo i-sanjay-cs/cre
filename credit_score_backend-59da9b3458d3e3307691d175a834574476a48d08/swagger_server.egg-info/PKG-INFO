@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: swagger-server
+Version: 1.0.0
+Summary: Credit Score Predictor
+Home-page: 
+Author-email: contact@madimedia.pro
+Keywords: Swagger,Credit Score Predictor
+Requires-Dist: connexion
+
+    This is an API to fetch a credit score for a loan seeker. The credit scores go from 0 to 10, 10 indicating a prospect most likely to reimburse its loan.
+    
